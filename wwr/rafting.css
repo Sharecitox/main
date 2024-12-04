@@ -1,12 +1,13 @@
 /* Coolors Color Palette */
-/* Palette URL: https://coolors.co/00296b-003f88-00509d-fdc500-f5f0e1 */
+/* Palette URL: https://coolors.co/palette/606c38-283618-fefae0-dda15e-bc6c25*/
 
 /* General Variables */
 :root {
-    --primary-color: #4b99f1; 
-    --secondary-color: #ddb62a; 
-    --accent-color: #00509d; 
-    --background-color: #f5f0e1; 
+    --primary-color: #606c38; 
+    --secondary-color: #fefae0; 
+    --accent1-color: #dda15e; 
+    --background-color: #ffffff; 
+    --accent2-color:#dc6c25;
     --text-color: #00296b; 
     --font-heading: "Roboto Slab", serif;
     --font-body: "Open Sans", sans-serif;
